@@ -29,7 +29,7 @@ module.exports = {
 		name: "cmd",
 		version: "1.17",
 		author: "NTKhang",
-		countDown: 0,
+		countDown: 5,
 		role: 2,
 		description: {
 			vi: "Quản lý các tệp lệnh của bạn",
