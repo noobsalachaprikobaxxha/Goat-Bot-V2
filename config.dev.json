@@ -18,16 +18,16 @@
   },
   "adminBot": [
     "100039655626737",
-    "61558589605546",
-    "61558262250216",
-    "61556896005065"
+    "100025331233054",
+    "100029100196795",
+    "100027258341578"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "nobi 🩷🫣",
+  "nickNameBot": "nobi 🩷",
   "prefix": ".",
   "database": {
     "type": "sqlite",
