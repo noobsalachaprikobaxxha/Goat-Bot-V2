@@ -47,7 +47,7 @@ module.exports = {
 message.reply(`======[𝗕𝗼𝘁 𝗶𝗻𝗳𝗼:]======
 𝗕𝗼𝘁 𝗽𝗿𝗲𝗳𝗶𝘅: ${botPrefix}
 
-𝗕𝗼𝘁 𝗻𝗮𝗺𝗲 : sizu 🌝❤️
+𝗕𝗼𝘁 𝗻𝗮𝗺𝗲 : nobi 🌝❤️
 
 𝗢𝘄𝗻𝗲𝗿: ${authorName}
  
